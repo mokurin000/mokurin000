@@ -8,4 +8,4 @@ Speak Chinese. English is very poor. (actually I need deepl to translate this te
 
 [![current year commits](https://github-readme-stats.vercel.app/api?username=poly000&count_private=false&show_icons=true&hide=stars,prs,issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poly000)](https://github.com/anuraghazra/github-readme-stats)
+Most write Bash, C and Rust.
