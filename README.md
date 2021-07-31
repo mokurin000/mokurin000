@@ -1,8 +1,12 @@
 ### Hi, friends
 
-I am from China.
+- I am an Archlinux user
+- I like electronic music, especially touhou-style
+- Learning Rust, although my coding skill sucks
+- osu! lover, also taisei noob
+- Also called `pedajilao`, mostly in rhythm games
 
-CN-3, EN-1
+**CN-3, EN-1**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=poly000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
