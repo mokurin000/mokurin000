@@ -1,6 +1,6 @@
 ### Hi, friends
 
-- I am an **[archlinux (linux-zen)](http://archlinux.org/)** user, using Plasma on Xorg
+- I am an **[archlinux (linux-xanmod)](http://archlinux.org/)** user, using Plasma on Xorg
 - Also called `pedajilao`, mostly in rhythm games
 --------------------
 - I like electronic music, especially touhou-style
