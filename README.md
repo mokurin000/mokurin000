@@ -9,5 +9,5 @@
 - **CN-3, EN-1**
 --------------------
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=poly000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![osu](https://osusig.lolicon.app/sig.php?colour=hexff66aa&uname=pedajilao&pp=1&countryrank)
 
