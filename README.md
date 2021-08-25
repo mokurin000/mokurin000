@@ -1,3 +1,4 @@
+![banner](github-metrics.svg)
 ### Hi, friends
 
 - I am an **[archlinux (linux-xanmod)](http://archlinux.org/)** user, using Plasma on Xorg
@@ -10,4 +11,6 @@
 --------------------
 
 [![osu](https://osusig.lolicon.app/sig.php?colour=hexff66aa&uname=pedajilao&pp=1&countryrank)](https://osu.ppy.sh/users/13851970)
+
+
 
