@@ -21,3 +21,4 @@
 - [vndb标签(!nsfw)](https://github.com/poly000/vndb_chinese_translation)
 
 
+![:_poly000](https://count.getloli.com/get/@:_poly000)
