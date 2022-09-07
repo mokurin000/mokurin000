@@ -6,7 +6,7 @@
 --------------------
 - I like electronic music, especially touhou-style
 - Learning Rust, although my coding skill sucks
-- osu! lover, also taisei noob
+- I play osu! by mouse+simpadv2
 - **CN-3, EN-1**
 --------------------
 
