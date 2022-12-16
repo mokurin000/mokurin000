@@ -14,6 +14,10 @@
 
 --------------------
 
+Boyfriend: [@ShaMaTeTuanZhang](https://github.com/ShaMaTeTuanZhang)
+
+--------------------
+
 中文翻译：
 
 - [ScreenPlay](https://github.com/kelteseth/ScreenPlay)
