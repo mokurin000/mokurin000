@@ -14,7 +14,7 @@
 
 --------------------
 
-❤️ [@ShaMaTeTuanZhang](https://github.com/ShaMaTeTuanZhang)
+## ❤️ [ShaMaTeTuanZhang](https://github.com/ShaMaTeTuanZhang)
 
 --------------------
 
