@@ -1,11 +1,10 @@
 ![banner](github-metrics.svg)
 ### Hi, friends
 
-- I am using Windows 11 (latest pre-release version) with ArchWSL for dev environment
+- I am using KDE(wayland) on Archlinux with ZEN kernel
 - Also called `pedajilao`, mostly in rhythm games
 --------------------
 - I like electronic music, especially touhou-style
-- Learning Rust, although my coding skill sucks
 - I play osu! by mouse+simpadv2
 - **CN-3, EN-1**
 --------------------
@@ -17,12 +16,5 @@
 ## ❤️ [ShaMaTeTuanZhang](https://github.com/ShaMaTeTuanZhang)
 
 --------------------
-
-中文翻译：
-
-- [ScreenPlay](https://github.com/kelteseth/ScreenPlay)
-- [perf-book-zh](https://github.com/poly000/perf-book-zh)
-- [vndb标签(!nsfw)](https://github.com/poly000/vndb_chinese_translation)
-
 
 ![:_poly000](https://count.getloli.com/get/@:_poly000)
