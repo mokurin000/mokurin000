@@ -13,8 +13,4 @@
 
 --------------------
 
-## ❤️ [ShaMaTeTuanZhang](https://github.com/ShaMaTeTuanZhang)
-
---------------------
-
 ![:_poly000](https://count.getloli.com/get/@:_poly000)
