@@ -13,7 +13,7 @@
 
 --------------------
 
-❤️ [xgmo9](https://github.com/xgmo9)
+<!-- ❤️ [xgmo9](https://github.com/xgmo9) -->
 
 --------------------
 
