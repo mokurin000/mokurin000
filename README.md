@@ -12,9 +12,7 @@
 [![osu](https://osusig.lolicon.app/sig.php?colour=hexff66aa&uname=pedajilao&pp=1&countryrank)](https://osu.ppy.sh/users/13851970)
 
 --------------------
-<!--
-❤️ [xgmo9](https://github.com/xgmo9)
--->
+❤️ [MeowKatee](https://github.com/MeowKatee)
 --------------------
 
 ![:_poly000](https://count.getloli.com/get/@:_poly000)
