@@ -16,3 +16,7 @@
 --------------------
 
 ![:_poly000](https://count.getloli.com/get/@:_poly000)
+
+--------------------
+
+[Sponsor me](https://afdian.net/a/poly000)
