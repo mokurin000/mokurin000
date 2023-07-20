@@ -19,4 +19,8 @@
 
 --------------------
 
+<img src="https://github.com/poly000/poly000/assets/34085039/c7a8723b-6813-41fc-8bf4-109a6dc75b80" width=160>
+
 [Sponsor me](https://afdian.net/a/poly000)
+
+
