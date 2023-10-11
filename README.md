@@ -1,25 +1,16 @@
 ![banner](github-metrics.svg)
 ### Hi, friends
-
-- I am using KDE(wayland) on Archlinux with ZEN kernel
-- Also called `pedajilao`, mostly in rhythm games
---------------------
-- I like electronic music, especially touhou-style
-- I play osu! by mouse+simpadv2
-- **CN-3, EN-1**
 --------------------
 
 [![osu](https://osusig.lolicon.app/sig.php?colour=hexff66aa&uname=pedajilao&pp=1&countryrank)](https://osu.ppy.sh/users/13851970)
 
 --------------------
-❤️ [MeowKatee](https://github.com/MeowKatee)
+❤️ [Poly000](https://github.com/poly000)
 --------------------
 
-![:_poly000](https://count.getloli.com/get/@:_poly000)
+![:meowkatee](https://count.getloli.com/get/@:meowkatee)
 
 --------------------
-
-<img src="https://github.com/poly000/poly000/assets/34085039/c7a8723b-6813-41fc-8bf4-109a6dc75b80" width=160>
 
 [Sponsor me](https://afdian.net/a/poly000)
 
