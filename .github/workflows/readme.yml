@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: poly000
+          user: meowkatee
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
@@ -25,7 +25,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: html, css, batchfile, c++, xBase, php, makefile
+          plugin_languages_ignored: batchfile, xBase, php, makefile
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
