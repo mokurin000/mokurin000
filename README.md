@@ -1,16 +1,23 @@
-### Hi there 👋
+![banner](github-metrics.svg)
 
-<!--
-**poly000/poly000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, friends
 
-Here are some ideas to get you started:
+- I am using KDE(wayland) on Archlinux with ZEN kernel
+- Also called `pedajilao`, mostly in rhythm games
+--------------------
+- I like electronic music, especially touhou-style
+- I play osu! by mouse+simpadv2
+- **CN-3, EN-1**
+--------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![osu](https://osusig.lolicon.app/sig.php?colour=hexff66aa&uname=pedajilao&pp=1&countryrank)](https://osu.ppy.sh/users/13851970)
+
+--------------------
+❤️ [MeowKatee](https://github.com/MeowKatee)
+--------------------
+
+![:_poly000](https://count.getloli.com/get/@:_poly000)
+
+--------------------
+
+[Sponsor me](https://afdian.net/a/poly000)
