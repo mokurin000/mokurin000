@@ -19,10 +19,6 @@
 
 ![:_poly000](https://count.getloli.com/get/@:_poly000)
 
----
-
-❤️ My wife: [MeowKatee](https://github.com/MeowKatee)
-
 
 # Contact Me
 
